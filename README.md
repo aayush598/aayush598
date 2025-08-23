@@ -67,78 +67,6 @@ I'm a passionate **Electronics and Communication Engineering** student at Indore
 </p>
 
 ---
-
-## 🏆 Featured Projects
-
-### 🖥️ Systems Programming
-
-#### [Minimal x86 Bootloader](https://github.com/aayush598/basic-bootloader-assembly)
-**Tech Stack:** NASM, x86 Assembly, BIOS INT 13h/10h, QEMU, Make, FAT12
-
-#### [Ubuntu System Monitor](https://github.com/aayush598/ubuntu-system-monitor)
-**Tech Stack:** C, ncurses, GNU Make, Shell, Debian Packaging
-
-#### [RISC-V RV32I Simulator](https://github.com/aayush598/riscv-rv32i-sim)
-**Tech Stack:** C++, Doctest, Make
-
-### 🤖 AI & Machine Learning
-
-#### [OpenRTL AI](https://github.com/aayush598/openrtl.ai)
-**Tech Stack:** Python, Gemini API, Verilator, Yosys, Netlistsvg, SQLite, Node.js
-
-#### [DebugXpert VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AayushGid.DebugXpert)
-**Tech Stack:** TypeScript, VS Code API, Gemini API
-
-### 🔧 Hardware & VLSI
-
-#### [32-bit RISC-V CPU Implementation](https://github.com/aayush598/riscv-32bit-verilog)
-**Tech Stack:** Verilog HDL, Icarus Verilog, GTKWave
-
-#### [Image Processing on FPGA](https://github.com/aayush598/image-processing-verilog)
-**Tech Stack:** Verilog HDL, Python, Open-source EDA Tools
-
----
-
-## 📚 Publications & Research
-
-### [Real-Time Face Mask Detection for Patient Safety using Deep Learning](https://doi.org/10.1109/ACROSET62108.2024.10743262)
-**IEEE ACROSET 2024, Indore, India**
-- Developed MobileNetV2-based model for real-time healthcare mask detection
-- Achieved high accuracy under diverse lighting and environmental conditions
-- Focus on data preprocessing, normalization, and model fine-tuning
-
----
-
-## 🎯 Open Source Contributions
-
-### [Cocotb2-Migrator](https://pypi.org/project/cocotb2-migrator/)
-**Published on PyPI**
-- Automated HDL testbench migration tool from Cocotb 1.x to 2.x
-- Uses LibCST for syntax-preserving code transformations
-- CLI and API support with comprehensive migration reports
-
-### Active Contributions
-- **10+ open source projects** across systems programming and AI
-- **Published tools** used by the HDL verification community
-- **Community support** through GitHub and Discord channels
-
----
-
-## 🏅 Achievements & Recognition
-
-### 🥇 Recent Hackathon Wins (2024-2025)
-- **2nd Position** - NoCode Low Code Hackathon, SCSIT DAVV
-- **2nd Position** - Dev Hacks Hackathon, CDGI
-- **1st Position** - Clash Hackathon 1.0, IndoreCoders
-
-### 🏆 Major Competitions
-- **Finalist** - Smart India Hackathon (SIH) 2024
-- **Top 5** - Techfest CodeCode Zonal, IIT Bombay 2023
-- **Finalist** - Devbhoomi Cyber Hackathon 2022
-
----
-
----
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -157,14 +85,6 @@ I'm a passionate **Electronics and Communication Engineering** student at Indore
 
 ---
 
-## 🎯 Current Focus Areas
-
-- **Operating Systems Internals** - Deep diving into kernel development and system-level programming
-- **FPGA Development** - Neural network acceleration and real-time video processing
-- **AI Agent Development** - Building intelligent automation systems
-- **Open Source Contributions** - Contributing to systems programming and hardware design tools
-
----
 
 ## 🤝 Let's Connect!
 
