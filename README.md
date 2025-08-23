@@ -74,49 +74,28 @@ I'm a passionate **Electronics and Communication Engineering** student at Indore
 
 #### [Minimal x86 Bootloader](https://github.com/aayush598/basic-bootloader-assembly)
 **Tech Stack:** NASM, x86 Assembly, BIOS INT 13h/10h, QEMU, Make, FAT12
-- 512-byte x86 bootloader in Assembly executed directly by BIOS via MBR
-- Modularized BIOS-level screen output and disk I/O for reusable routines
-- Implemented FAT12 sector parsing to load second-stage binary kernel
 
 #### [Ubuntu System Monitor](https://github.com/aayush598/ubuntu-system-monitor)
 **Tech Stack:** C, ncurses, GNU Make, Shell, Debian Packaging
-- Terminal-based system monitor using low-level access to /proc and /sys
-- Real-time CPU, memory, disk, network, process, battery metrics
-- Modular UI with ViewMode switching and theming support
 
 #### [RISC-V RV32I Simulator](https://github.com/aayush598/riscv-rv32i-sim)
 **Tech Stack:** C++, Doctest, Make
-- Cycle-accurate CPU simulator with R, I, and S-type instruction support
-- CLI-based debugger with step/run execution and register inspection
-- Modular design with complete fetch-decode-execute pipeline
 
 ### 🤖 AI & Machine Learning
 
 #### [OpenRTL AI](https://github.com/aayush598/openrtl.ai)
 **Tech Stack:** Python, Gemini API, Verilator, Yosys, Netlistsvg, SQLite, Node.js
-- AI-powered Verilog/SystemVerilog code generator from natural language
-- Integrated synthesis pipeline with linting and netlist visualization
-- Project management with SQLite backend and browser-based editor
 
 #### [DebugXpert VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AayushGid.DebugXpert)
 **Tech Stack:** TypeScript, VS Code API, Gemini API
-- AI-powered debugging and inline documentation for VS Code
-- Real-time code analysis, security checks, and optimization suggestions
-- Published on VS Code Marketplace with active community support
 
 ### 🔧 Hardware & VLSI
 
 #### [32-bit RISC-V CPU Implementation](https://github.com/aayush598/riscv-32bit-verilog)
 **Tech Stack:** Verilog HDL, Icarus Verilog, GTKWave
-- Complete single-core 32-bit RISC-V CPU designed from scratch
-- Support for Register, Immediate, Store & Load type instructions
-- Comprehensive testbenches with automated build system
 
 #### [Image Processing on FPGA](https://github.com/aayush598/image-processing-verilog)
 **Tech Stack:** Verilog HDL, Python, Open-source EDA Tools
-- Fundamental image processing operations implemented in Verilog
-- Python utilities for image-to-hex conversion for hardware implementation
-- Optimized design for FPGA hardware constraints
 
 ---
 
@@ -158,19 +137,6 @@ I'm a passionate **Electronics and Communication Engineering** student at Indore
 - **Finalist** - Devbhoomi Cyber Hackathon 2022
 
 ---
-
-## 💼 Professional Experience
-
-### AI Agent Developer Intern
-**Clone Futura Education Pvt. Ltd.** (Feb 2025 – Mar 2025)
-- Built AI-driven marketing automation agents using Gemini, GPT, Flask, and Streamlit
-- Automated blog creation, social media posts, ad copy, and campaign strategy
-- Integrated multiple APIs for comprehensive workflow automation
-
-### Data Science Intern
-**NullClass** (Jan 2025 – Feb 2025)
-- Developed modular AI chatbot with sentiment analysis using VADER and BERT
-- Created scalable NLP modules with interactive Streamlit UI
 
 ---
 ## 📊 GitHub Analytics
